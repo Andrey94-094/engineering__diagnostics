@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/engineering__diagnostics/static/css/main.c7b2edcf.chunk.css",
+    "main.js": "/engineering__diagnostics/static/js/main.445b5ee0.chunk.js",
+    "main.js.map": "/engineering__diagnostics/static/js/main.445b5ee0.chunk.js.map",
+    "runtime-main.js": "/engineering__diagnostics/static/js/runtime-main.47d6b803.js",
+    "runtime-main.js.map": "/engineering__diagnostics/static/js/runtime-main.47d6b803.js.map",
+    "static/css/2.be85f1b2.chunk.css": "/engineering__diagnostics/static/css/2.be85f1b2.chunk.css",
+    "static/js/2.c4932b78.chunk.js": "/engineering__diagnostics/static/js/2.c4932b78.chunk.js",
+    "static/js/2.c4932b78.chunk.js.map": "/engineering__diagnostics/static/js/2.c4932b78.chunk.js.map",
+    "index.html": "/engineering__diagnostics/index.html",
+    "static/css/2.be85f1b2.chunk.css.map": "/engineering__diagnostics/static/css/2.be85f1b2.chunk.css.map",
+    "static/css/main.c7b2edcf.chunk.css.map": "/engineering__diagnostics/static/css/main.c7b2edcf.chunk.css.map",
+    "static/js/2.c4932b78.chunk.js.LICENSE.txt": "/engineering__diagnostics/static/js/2.c4932b78.chunk.js.LICENSE.txt",
+    "static/media/01.0a2c4059.svg": "/engineering__diagnostics/static/media/01.0a2c4059.svg",
+    "static/media/02.5e5054d9.svg": "/engineering__diagnostics/static/media/02.5e5054d9.svg",
+    "static/media/03.7d436f40.svg": "/engineering__diagnostics/static/media/03.7d436f40.svg",
+    "static/media/index.scss": "/engineering__diagnostics/static/media/proxima-nova-condensed-thin.9d5671e6.ttf",
+    "static/media/Intro.scss": "/engineering__diagnostics/static/media/bg.3817b552.jpg",
+    "static/media/bg.78e69c42.png": "/engineering__diagnostics/static/media/bg.78e69c42.png",
+    "static/media/Service.scss": "/engineering__diagnostics/static/media/bg.7c1ca841.png",
+    "static/media/circle.d487c7b5.png": "/engineering__diagnostics/static/media/circle.d487c7b5.png",
+    "static/media/download.07f964f2.svg": "/engineering__diagnostics/static/media/download.07f964f2.svg",
+    "static/media/logo.a6a6067c.svg": "/engineering__diagnostics/static/media/logo.a6a6067c.svg",
+    "static/media/mail.7f478b23.svg": "/engineering__diagnostics/static/media/mail.7f478b23.svg",
+    "static/media/photo1.6f470272.png": "/engineering__diagnostics/static/media/photo1.6f470272.png",
+    "static/media/photo2.f3f03920.png": "/engineering__diagnostics/static/media/photo2.f3f03920.png",
+    "static/media/photo3.33e09699.png": "/engineering__diagnostics/static/media/photo3.33e09699.png",
+    "static/media/photo4.8dbd6246.png": "/engineering__diagnostics/static/media/photo4.8dbd6246.png",
+    "static/media/Why.scss": "/engineering__diagnostics/static/media/tv.41ab9448.png",
+    "static/media/video.799f4f3f.png": "/engineering__diagnostics/static/media/video.799f4f3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47d6b803.js",
+    "static/css/2.be85f1b2.chunk.css",
+    "static/js/2.c4932b78.chunk.js",
+    "static/css/main.c7b2edcf.chunk.css",
+    "static/js/main.445b5ee0.chunk.js"
+  ]
+}
